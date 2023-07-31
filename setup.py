@@ -68,7 +68,7 @@ setup(
     download_url=download_url,
     keywords=keywords,
     long_description=long_description,
-    install_requires=['future'],
+    install_requires=[],
     extras_require={
         'dev': [
             'future==0.17.1',
